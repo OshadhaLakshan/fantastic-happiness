@@ -1,0 +1,50 @@
++------------------------------------------------------+-------------+------------------+-------------------------+
+|                         name                         |    name     | avg_dropped_rate | avg_unsatisfactory_rate |
++------------------------------------------------------+-------------+------------------+-------------------------+
+| Southbridge Academy                                  | Southbridge | 71.4             | 1.6                     |
+| Southbridge High School                              | Southbridge | 28.0             | 1.6                     |
+| Drury High                                           | North Adams | 8.8              | 0.6                     |
+| School for Exceptional Studies                       | Lawrence    | 22.2             | 0.5                     |
+| Lawrence High School                                 | Lawrence    | 8.8              | 0.5                     |
+| RISE Academy                                         | Lawrence    | 8.6              | 0.5                     |
+| Claremont Academy                                    | Worcester   | 8.1              | 0.4                     |
+| North High                                           | Worcester   | 7.6              | 0.4                     |
+| Waltham Sr High                                      | Waltham     | 10.4             | 0.3                     |
+| Falmouth High                                        | Falmouth    | 9.6              | 0.3                     |
+| Springfield Public Day High School                   | Springfield | 57.1             | 0.2                     |
+| Springfield High School                              | Springfield | 44.3             | 0.2                     |
+| Curtis-Tufts                                         | Medford     | 28.6             | 0.2                     |
+| Boston Collaborative High School                     | Boston      | 27.8             | 0.2                     |
+| Community Academy                                    | Boston      | 26.1             | 0.2                     |
+| Greater Egleston High School                         | Boston      | 25.4             | 0.2                     |
+| McKinley Schools                                     | Boston      | 20.0             | 0.2                     |
+| Brighton High School                                 | Boston      | 17.4             | 0.2                     |
+| Boston Adult Tech Academy                            | Boston      | 15.9             | 0.2                     |
+| Madison Park Technical Vocational High School        | Boston      | 14.8             | 0.2                     |
+| Chelsea High                                         | Chelsea     | 12.8             | 0.2                     |
+| Boston International High School & Newcomers Academy | Boston      | 12.6             | 0.2                     |
+| Burke High School                                    | Boston      | 12.5             | 0.2                     |
+| Chelsea Opportunity Academy                          | Chelsea     | 11.8             | 0.2                     |
+| English High School                                  | Boston      | 10.8             | 0.2                     |
+| Charlestown High School                              | Boston      | 10.7             | 0.2                     |
+| Milford High                                         | Milford     | 10.5             | 0.2                     |
+| High School Of Commerce                              | Springfield | 9.5              | 0.2                     |
+| Taconic High                                         | Pittsfield  | 8.7              | 0.2                     |
+| Excel High School                                    | Boston      | 8.4              | 0.2                     |
+| Pittsfield High                                      | Pittsfield  | 8.3              | 0.2                     |
+| Springfield High School of Science and Technology    | Springfield | 8.2              | 0.2                     |
+| Community Academy of Science and Health              | Boston      | 8.0              | 0.2                     |
+| Marlborough High                                     | Marlborough | 7.8              | 0.2                     |
+| East Boston High School                              | Boston      | 7.7              | 0.2                     |
+| Snowden International High School                    | Boston      | 7.6              | 0.2                     |
+| Margarita Muniz Academy                              | Boston      | 7.1              | 0.2                     |
+| Whaling City Junior/Senior High School               | New Bedford | 59.3             | 0.1                     |
+| Trinity Day Academy                                  | New Bedford | 46.7             | 0.1                     |
+| Brockton Champion High School                        | Brockton    | 22.6             | 0.1                     |
+| The Career Academy                                   | Lowell      | 15.8             | 0.1                     |
+| Edison Academy                                       | Brockton    | 14.7             | 0.1                     |
+| Leblanc Therapeutic Day School                       | Lowell      | 11.1             | 0.1                     |
+| New Bedford High                                     | New Bedford | 10.1             | 0.1                     |
+| Huntington Therapeutic Day School                    | Brockton    | 9.1              | 0.1                     |
+| Lowell High                                          | Lowell      | 8.9              | 0.1                     |
++------------------------------------------------------+-------------+------------------+-------------------------+
