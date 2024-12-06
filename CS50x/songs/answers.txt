@@ -1,0 +1,24 @@
+The Audio Aura Description:
+
+SELECT
+    AVG(danceability) AS average_danceability,
+    AVG(energy) AS average_energy,
+    AVG(valence) AS average_valence
+FROM songs;
+
+- Energy Average: 0.65906
+- Valence Average: 0.484443
+- Danceability Average: 0.71646
+========================================
+
+Hypothesis on Representativity:
+
+- Temporal data: The top songs from 2018 indeed are not representing what the listeners are feeling now.
+- Personal Context - The songs that one would select in 2018 might have ideally reflected their life situations at that point, which are no longer the same now.
+- Size of Population-Only 100 songs were considered in the data and which is small to generalize the varieties available in choices in the listeners' profiles.
+========================================
+
+Better Calculation Method:
+
+- Time analysis-measure the trends concerning popularity of songs over the extended time period.
+- Several Sources-Not only talk about the information from other sources like Spotify, Apple as well.

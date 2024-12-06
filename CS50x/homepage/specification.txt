@@ -1,0 +1,37 @@
+HTML Tags:
+1. <header>
+2. <nav>
+3. <ul>
+4. <li>
+5. <a>
+6. <h1>
+7. <h2>
+8. <h3>
+9. <p>
+10. <form>
+11. <input>
+12. <textarea>
+13. <button>
+14. <iframe>
+
+-------------------------------------------------------------------------
+CSS Properties:
+1. font-family
+2. margin-top
+3. background-color
+4. color
+5. font-size
+
+JavaScript:
+JavaScript is used for handling form submission to send email via EmailJS and then show a welcome message when the page loads.
+
+Bootstrap:
+Bootstrap is used for a responsive navigation pill, form, and button style.
+
+---------------------------------------------------------------------------
+More Messages:
+Welcome Message: through JavaScript alert('Welcome to my hobbies page!'); when the page loads.
+
+Closing Message: This will show success or failure messages after form submission using JavaScript
+                 alert('Email successfully sent!'); or
+                 alert('Failed to send email. Please try again.');.
